@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+mo_otp.db
+mo_otp.log
+.env
+*.sqlite3
+.DS_Store
+venv/
+env/
